@@ -1,2 +1,10 @@
-Vehicle.class
-Main.class
+me\wydryszek\vehicles\menu\UserMenu.class
+me\wydryszek\vehicles\objects\Car.class
+me\wydryszek\vehicles\objects\Vehicle.class
+me\wydryszek\vehicles\objects\Bicycle.class
+me\wydryszek\vehicles\storage\VehicleStorage.class
+me\wydryszek\vehicles\objects\Ship.class
+me\wydryszek\vehicles\storage\VehicleStorage$1.class
+me\wydryszek\vehicles\Main.class
+me\wydryszek\vehicles\objects\Plane.class
+me\wydryszek\vehicles\objects\VehicleType.class
